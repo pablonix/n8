@@ -19,7 +19,7 @@ TakeProfit is a platform for technical traders, quant investors, and coders. It 
 * For very ambiguous queries, label as "irrelevant" unless it's obviously about trading or platforms.
 
 Queries to classify:
-{QUERIES}
+{QUERIES_LIST}
 
 **Output format (CSV)**
 Return as plain text in this CSV format:
